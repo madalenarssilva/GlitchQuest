@@ -1,0 +1,21 @@
+{
+  "name": "glitch-quest",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/madalenarssilva/GlitchQuest.git"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel build src/index.html",
+    "start": "parcel ./src/index.html --open"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  },
+  "dependencies": {
+    "phaser": "^3.10.1",
+    "webpack": "^4.39.2"
+  }
+}
