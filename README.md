@@ -42,6 +42,8 @@ No **nível 2** o utilizador deve fugir do dinaussauro e escapar às suas bolas 
 
 No **nível 3** o utilizador deve alinhar as peças de tetris de modo a conseguir fazer uma escada e escapar.
 
+---
+
 ## Hacks:
 
 - Cena inicial:
