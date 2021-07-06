@@ -4,7 +4,7 @@
 
 Projeto desenvolvido no âmbito da cadeira de Multimédia. O conceito do jogo é um alerta para a facilidade de obter vírus ao clicar em links desconhecidos que parecem inofensivos e que muitas vezes têm a palavra "free", para serem mais sugestivos. 
 
-O utilizador começa por abrir um "email" com um link e ao clicar neste o jogo começa. Inicialmente parece um simples jogo de plataformas mas ao longo do primeiro nível o utilizador começa a reparar que algo se passa com o próprio jogo e que na realidade o objetivo deste não é apanhar as moedas mas sim combater um vírus que se instalou no jogo quando o utilizador clicou no link do email inicial.
+O utilizador começa por abrir um "email" com um link e ao clicar neste o jogo começa. Inicialmente parece um simples jogo de plataformas mas ao longo do primeiro nível o utilizador começa a reparar que algo se passa com o próprio jogo e que na realidade o objetivo deste não é apanhar as moedas, mas sim combater um vírus que se instalou no jogo quando o utilizador clicou no link do email inicial.
 
 ---
 
