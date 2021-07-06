@@ -17,7 +17,7 @@ O utilizador começa por abrir um "email" com um link e ao clicar neste o jogo c
 
 ---
 
-## Usage:
+## Uso:
 
 - npm install ou yarn install
 - npm run build ou yarn build 
@@ -62,7 +62,7 @@ No **nível 3** o utilizador deve alinhar as peças de tetris de modo a consegui
 ## Co-autores:
 > Gonçalo Pereira, José Domingos
 
-Prototype:
+Protótipo hosted:
 https://glitchquest.netlify.app/
 
 
