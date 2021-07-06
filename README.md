@@ -44,18 +44,18 @@ No **nível 3** o utilizador deve alinhar as peças de tetris de modo a consegui
 
 ## Hacks:
 
-- Start Scene
+- Cena inicial:
    - clicar 1 : vai para o nível 1
    - clicar 2: vai para o nível 2
    - clicar 3: vai para o nível 3
    - clicar 4: vai para o nível final 
 
-- Levels
+- Níveis
    - clicar T : ligar o 'Turbo' - aumenta a velocidade do jogador 
-   - clicar esc : abre e fecha o stop menu
+   - clicar esc : abre e fecha o menu de pausa
 
-- Credits 
-   - clicar numa tecla qualquer: voltar à start Scene
+- Créditos 
+   - clicar numa tecla qualquer: voltar à cena inicial
 
 ---
 
