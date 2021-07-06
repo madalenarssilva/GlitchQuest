@@ -66,3 +66,9 @@ Protótipo hosted:
 https://glitchquest.netlify.app/
 
 
+---
+
+## Nota:
+Todos os assets são de autoria própria.
+
+
